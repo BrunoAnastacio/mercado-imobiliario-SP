@@ -11,7 +11,7 @@ Bora?
 
 [en] Just imagine a tool that you send your house's data and you get the right price for rent?
 
-OK, you shoud have seen things like that in everywhere...
+OK, you should have seen things like that in everywhere...
 
 But, no matter! It's just a little project that I'm running to try to discover what's the magic of Machine Learning!
 
